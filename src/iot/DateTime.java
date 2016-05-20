@@ -49,7 +49,5 @@ public class DateTime {
     public String getTimeFormated(){
         return timeFormated();
     }
-    public static void main(String[] args) {
-        
-    }
+
 }
